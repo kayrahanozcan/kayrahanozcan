@@ -1,27 +1,12 @@
-<!--Banner-->
-![](./header.png)
-
-<!--Night Owl image-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> KAYRAHAN ÖZCAN | *Robotics AI Engineer*
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
-
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ κᴀʏʀᴀʜᴀɴ
-*Robotics AI Engineer*
-<br /> 
 A versatile professional with expertise as a Full-Stack Developer, DevOps Engineer, and AI Engineer. Skilled in building dynamic web applications, deploying scalable solutions using cloud platforms, and developing intelligent systems powered by machine learning. Passionate about creating innovative, efficient, and impactful technologies while continuously exploring advancements in software development, automation, and artificial intelligence.
+                <li> </li>
 
-
-
-
-
-
-
-
-
-<section id="key-highlights">
-    Key Highlights
+ <section id="key-highlights">
+    <strong> Key Highlights </strong>
     <ul>
         <li>
             <strong>🎓 Education:</strong> Bachelor’s degree in Computer Engineering.
@@ -38,21 +23,29 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
             <strong>🌐 Explore More:</strong> Visit my <a href="https://kayrahanozcan.com" target="_blank">Website</a> to discover my projects, publications, and expertise in AI and robotics.
         </li>
     </ul>
-<!--End Intro-->
-
-<!-- Profile Count Badge -->
-<div align="left" style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=PROFILE+VIEWS&color=770677&style=flat-square&logo=github" alt="kayrahanozcan" />
-  <span style="font-weight: bold; font-size: 16px; color: #770677;"></span>
-</div>
-
 
 ---
 
 
 <!--Languages and Tools Section-->       
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center"><p align="center">
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">&nbsp;
+</p></h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -83,25 +76,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 <br />
 <br />
 <br />
-<p align="center">
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;
-  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">&nbsp;
-</p>
-
-
 
 ## 🤖 Expertise
 
