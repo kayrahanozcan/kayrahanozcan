@@ -14,58 +14,19 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
 ## 🛠 Tech Stack
 
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"><br>
-    <span style="font-size: 12px;">Python</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"><br>
-    <span style="font-size: 12px;">TensorFlow</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"><br>
-    <span style="font-size: 12px;">PyTorch</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"><br>
-    <span style="font-size: 12px;">NumPy</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"><br>
-    <span style="font-size: 12px;">Pandas</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"><br>
-    <span style="font-size: 12px;">JavaScript</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><br>
-    <span style="font-size: 12px;">React</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"><br>
-    <span style="font-size: 12px;">FastAPI</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"><br>
-    <span style="font-size: 12px;">Docker</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"><br>
-    <span style="font-size: 12px;">Kubernetes</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform"><br>
-    <span style="font-size: 12px;">Terraform</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"><br>
-    <span style="font-size: 12px;">AWS</span>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 5px;">
-    <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"><br>
-    <span style="font-size: 12px;">OpenCV</span>
-  </div>
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">&nbsp;
 </p>
   
 ## 🛠 Technical Skills
