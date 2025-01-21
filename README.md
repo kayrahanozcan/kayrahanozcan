@@ -36,7 +36,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
 <h3 align="left">## 🛠 Technical Skills</h3>
 <ul align="left">
