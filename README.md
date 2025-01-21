@@ -15,10 +15,13 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
 
 <div style="
   display: flex; 
-  flex-wrap: wrap; 
+  flex-wrap: nowrap; /* Öğelerin tek satırda kalmasını sağlar */
   justify-content: center; 
   gap: 20px; 
   text-align: center;
+  overflow-x: auto; /* Gerekirse yatay kaydırma ekler */
+  padding: 10px; 
+  white-space: nowrap; /* Metinlerin satır sonuna geçmesini engeller */
 ">
   <div style="
     display: flex; 
@@ -90,6 +93,7 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
     <p style="margin: 5px 0; font-size: 12px;">React</p>
   </div>
 </div>
+
 
 
 
