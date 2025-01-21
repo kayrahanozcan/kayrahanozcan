@@ -13,60 +13,37 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
 
 ## 🛠 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <p style="margin: 2px 0; font-size: 10px;">Python</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+    <p style="margin: 5px 0; font-size: 12px;">Python</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
-    <p style="margin: 2px 0; font-size: 10px;">TensorFlow</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+    <p style="margin: 5px 0; font-size: 12px;">TensorFlow</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
-    <p style="margin: 2px 0; font-size: 10px;">PyTorch</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+    <p style="margin: 5px 0; font-size: 12px;">PyTorch</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
-    <p style="margin: 2px 0; font-size: 10px;">NumPy</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+    <p style="margin: 5px 0; font-size: 12px;">NumPy</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
-    <p style="margin: 2px 0; font-size: 10px;">Pandas</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+    <p style="margin: 5px 0; font-size: 12px;">Pandas</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <p style="margin: 2px 0; font-size: 10px;">JavaScript</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <p style="margin: 5px 0; font-size: 12px;">JavaScript</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-    <p style="margin: 2px 0; font-size: 10px;">React</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
-    <p style="margin: 2px 0; font-size: 10px;">FastAPI</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker">
-    <p style="margin: 2px 0; font-size: 10px;">Docker</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
-    <p style="margin: 2px 0; font-size: 10px;">Kubernetes</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform">
-    <p style="margin: 2px 0; font-size: 10px;">Terraform</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
-    <p style="margin: 2px 0; font-size: 10px;">AWS</p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV">
-    <p style="margin: 2px 0; font-size: 10px;">OpenCV</p>
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+    <p style="margin: 5px 0; font-size: 12px;">React</p>
   </div>
 </div>
+
 
 
 ## 🛠 Technical Skills
