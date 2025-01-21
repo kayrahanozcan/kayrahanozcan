@@ -96,6 +96,13 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
 
 Are you looking for innovative robotics solutions powered by AI? I specialize in creating intelligent systems tailored to your needs. Let's collaborate to bring your vision to life. Connect with me on [LinkedIn](https://www.linkedin.com/in/kayrahanozcan/), [Upwork](https://www.upwork.com/freelancers/kayrahanozcan), or visit my [website](https://kayrahanozcan.com).
 
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=kayrahanozcan&show_icons=true&theme=algolia&include_all_commits=true&card_width=500"/>
+  <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kayrahanozcan&langs_count=6&theme=algolia&hide_progress=true&card_width=500"/>
+</p>
+
 ## 🤝🏻 Connect with Me
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
