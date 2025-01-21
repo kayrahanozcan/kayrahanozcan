@@ -13,20 +13,16 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
   
 ## 🛠 Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: ; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
     <p style="margin-top: 5px; font-size: 12px;">Python</p>
   </div>
-    <div style="display: flex; flex-direction: column; align-items: ;">
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
     <p style="margin-top: 5px; font-size: 12px;">TensorFlow</p>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
     <p style="margin-top: 5px; font-size: 12px;">PyTorch</p>
   </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
     <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
     <p style="margin-top: 5px; font-size: 12px;">NumPy</p>
   </div>
