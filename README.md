@@ -12,63 +12,63 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
 * **DevOps Excellence:** Expertise in container orchestration (Docker, Kubernetes), CI/CD pipelines, and infrastructure as code using Terraform.
   
 ## 🛠 Tech Stack
+  <h2>🛠 Tech Stack</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <p style="font-size: 12px;">Python</p>
+  <div class="tech-container">
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+      <p>Python</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+      <p>TensorFlow</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+      <p>PyTorch</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+      <p>NumPy</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+      <p>Pandas</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+      <p>JavaScript</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      <p>React</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
+      <p>FastAPI</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker">
+      <p>Docker</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
+      <p>Kubernetes</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform">
+      <p>Terraform</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
+      <p>AWS</p>
+    </div>
+    <div class="tech-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV">
+      <p>OpenCV</p>
+    </div>
   </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
-    <p style="font-size: 12px;">TensorFlow</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
-    <p style="font-size: 12px;">PyTorch</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
-    <p style="font-size: 12px;">NumPy</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
-    <p style="font-size: 12px;">Pandas</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <p style="font-size: 12px;">JavaScript</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-    <p style="font-size: 12px;">React</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
-    <p style="font-size: 12px;">FastAPI</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker">
-    <p style="font-size: 12px;">Docker</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes">
-    <p style="font-size: 12px;">Kubernetes</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform">
-    <p style="font-size: 12px;">Terraform</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS">
-    <p style="font-size: 12px;">AWS</p>
-  </div>
-  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV">
-    <p style="font-size: 12px;">OpenCV</p>
-  </div>
-</div>
-
-
+  
 ## 🛠 Technical Skills
 
 * **Programming Languages:** Python, JavaScript, Bash
