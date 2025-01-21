@@ -13,86 +13,42 @@ Hi, I'm Kayrahan Ozcan, a Robotics AI Engineer dedicated to advancing the integr
   
 ## 🛠 Tech Stack
 
-<div style="
-  display: flex; 
-  flex-wrap: nowrap; /* Öğelerin tek satırda kalmasını sağlar */
-  justify-content: center; 
-  gap: 20px; 
-  text-align: center;
-  overflow-x: auto; /* Gerekirse yatay kaydırma ekler */
-  padding: 10px; 
-  white-space: nowrap; /* Metinlerin satır sonuna geçmesini engeller */
-">
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <p style="margin: 5px 0; font-size: 12px;">Python</p>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+      <span>Python</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+      <span>TensorFlow</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+      <span>PyTorch</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+      <span>NumPy</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+      <span>Pandas</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+      <span>JavaScript</span>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; margin: 0 10px;">
+      <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
+      <span>React</span>
+    </div>
   </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
-    <p style="margin: 5px 0; font-size: 12px;">TensorFlow</p>
-  </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
-    <p style="margin: 5px 0; font-size: 12px;">PyTorch</p>
-  </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
-    <p style="margin: 5px 0; font-size: 12px;">NumPy</p>
-  </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
-    <p style="margin: 5px 0; font-size: 12px;">Pandas</p>
-  </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <p style="margin: 5px 0; font-size: 12px;">JavaScript</p>
-  </div>
-  
-  <div style="
-    display: flex; 
-    flex-direction: column; 
-    align-items: center; 
-    width: 80px;
-  ">
-    <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
-    <p style="margin: 5px 0; font-size: 12px;">React</p>
-  </div>
-</div>
 
 
 
