@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> KAYRAHAN ÖZCAN | *Robotics AI Engineer*
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://github.com/kayrahanozcan/kayrahanozcan/blob/main/Kayrahan%20%C3%96zcan.png">
 </div>
 A versatile professional with expertise as a Full-Stack Developer, DevOps Engineer, and AI Engineer. Skilled in building dynamic web applications, deploying scalable solutions using cloud platforms, and developing intelligent systems powered by machine learning. Passionate about creating innovative, efficient, and impactful technologies while continuously exploring advancements in software development, automation, and artificial intelligence.
                 <li> </li>
