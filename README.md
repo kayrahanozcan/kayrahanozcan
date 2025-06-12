@@ -154,7 +154,7 @@ Are you looking for innovative robotics solutions powered by AI? I specialize in
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=FFD700">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -166,18 +166,4 @@ Are you looking for innovative robotics solutions powered by AI? I specialize in
 <h2 align="center">📈 GitHub Activity Snapshot</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayrahanozcan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayrahanozcan&show_icons=true&theme=tokyonight" alt="Kayrahan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayrahanozcan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrahanozcan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
