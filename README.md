@@ -162,3 +162,8 @@ Are you looking for innovative robotics solutions powered by AI? I specialize in
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+<h2 align="center">📈 GitHub Activity Snapshot</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayrahanozcan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
