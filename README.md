@@ -154,7 +154,7 @@ Are you looking for innovative robotics solutions powered by AI? I specialize in
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=FFD700">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Samuel%20Beckett&quote=Ever%20tried.%20Ever%20failed.%20No%20matter.%20Try%20Again.%20Fail%20again.%20Fail%20better.&theme=dark&bg_color=000000&author_color=FFD700&accent_color=FFD700">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
