@@ -84,7 +84,7 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
   
 ## 🚀 Featured Projects
 
-### [Captain Atlas - Open World RPG (Senior Project)]  
+### Captain Atlas - Open World RPG (Senior Project)
 - 🏴‍☠️ **Description:** Developed an open-world RPG game where players take on the role of a pirate exploring seas and mysterious islands. Features dynamic ship battles, quests, and rich NPC interactions within a world affected by weather and day-night cycles.  
 - 📂 **Tech Stack:** Unity, C#  
 - 🌟 **Highlight:** Created a complex game environment with interactive gameplay elements as part of a senior project.
@@ -97,10 +97,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 ## 🌟 Notable Achievements
 
 * **Award-Winning Projects:** Received an award at Hackathon Sivas for developing a student web platform focused on campus events and announcements.
-* **Publications:** AI & robotics newsletter on LinkedIn (1,000+ followers) and technical articles on Medium and my blog.  
-  - [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7330305148398784513/)  
-  - [Medium Articles](https://medium.com/@kayrahanozcan)  
-  - [Personal Blog](https://kayrahanozcan.com)
 * **Contributions:** Active participant in international Kaggle competitions, sharing solutions and insights in both Turkish and English to enhance community knowledge and skills.  
   Kaggle profile: [kayrahanozcan](https://www.kaggle.com/kayrahanozcan)
 * **Speaker & Organizer:** Former board member of Google Developers Group Sivas. Delivered talks and moderated national tech events.
@@ -112,9 +108,14 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 
 ## 📝 Publications & Media
 
-- **Research Paper:** "Revolutionizing Industrial Robotics with Deep Learning" - Published in IEEE Robotics Journal.
-- **Interview:** Featured in "Top 10 AI Innovators in Robotics" by TechVision Magazine.
-- **Conference Talk:** Keynote speaker at "Global AI Summit 2023" on "The Role of AI in Next-Gen Robotics."
+- **AI & Robotics Newsletter:**  
+  Curate and publish a professional newsletter on LinkedIn with over 1,000 active subscribers, delivering insights and updates on artificial intelligence and robotics.  
+  [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7330305148398784513/)
+
+- **Technical Writing:**  
+  Author of in-depth technical articles covering AI, robotics, and software development, published on Medium and a personal blog, contributing to community knowledge and industry discourse.  
+  [Medium Articles](https://medium.com/@kayrahanozcan) | [Personal Blog](https://kayrahanozcan.com)
+
 
 ## 🌍 Global Impact
 
