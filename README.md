@@ -47,7 +47,7 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 * **Infrastructure as Code:** Terraform
 * **DevOps Tools:** GitHub Actions, CI/CD pipelines
 * **Web Development:** React (Frontend), FastAPI (Backend)
-* **Robotics:** ROS (Robot Operating System), OpenCV
+* **Robotics:** KUKA Robot Programming (Teach Pendant, KRL basics), OpenCV
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
