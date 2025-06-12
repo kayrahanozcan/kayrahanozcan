@@ -167,3 +167,17 @@ Are you looking for innovative robotics solutions powered by AI? I specialize in
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayrahanozcan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
+
+<h2 align="center">📊 GitHub Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayrahanozcan&show_icons=true&theme=tokyonight" alt="Kayrahan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayrahanozcan&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayrahanozcan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
