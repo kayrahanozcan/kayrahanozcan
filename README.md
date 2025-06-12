@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> KAYRAHAN ÖZCAN | *Robotics AI Engineer*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> KAYRAHAN ÖZCAN | *AI Engineer*
 <div>
   <img align="right" width="30.5%" src="https://github.com/kayrahanozcan/kayrahanozcan/blob/main/Kayrahan-Ozcan-Github-Readme%2BFinal%20(1).png">
 </div>
@@ -47,7 +47,7 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 * **Infrastructure as Code:** Terraform
 * **DevOps Tools:** GitHub Actions, CI/CD pipelines
 * **Web Development:** React (Frontend), FastAPI (Backend)
-* **Robotics:** KUKA Robot Programming (Teach Pendant, KRL basics), OpenCV
+* **Robotics:** Computer Vision (OpenCV), KUKA Robot Programming (Teach Pendant, KRL)
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
@@ -96,10 +96,17 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 
 ## 🌟 Notable Achievements
 
-* **Award-Winning Projects:** Developed AI-driven robotics systems recognized at international tech competitions.
-* **Publications:** Authored research papers on AI and robotics in leading journals.
-* **Contributions:** Contributed to open-source projects benefiting the robotics and AI communities.
-* **Speaker:** Delivered talks at global conferences, sharing insights on AI and robotics advancements.
+* **Award-Winning Projects:** Received an award at Hackathon Sivas for developing a student web platform focused on campus events and announcements.
+* **Publications:** Authored research papers on AI and robotics in leading journals.  
+  - [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7330305148398784513/)  
+  - [Medium Articles](https://medium.com/@kayrahanozcan)  
+  - [Personal Blog](https://kayrahanozcan.com)
+* **Contributions:** Active participant in international Kaggle competitions, sharing solutions and insights in both Turkish and English to enhance community knowledge and skills.  
+  Kaggle profile: [kayrahanozcan](https://www.kaggle.com/kayrahanozcan)
+* **Speaker & Organizer:** Former board member of Google Developers Group Sivas. Delivered talks and moderated national tech events.
+* **Founder & Leader of [Kaggle Türkiye Topluluğu](https://www.linkedin.com/company/kaggle-turkiye-toplulugu/):**  
+  Spearhead a vibrant community of 3000+ data scientists and AI practitioners. Organize events, foster collaboration, and drive knowledge sharing to empower members.  
+  Skilled in team leadership, communication, and community building.
 
 ## 📝 Publications & Media
 
@@ -122,12 +129,12 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 
 ## 🎥 Live Demos
 
-- **Autonomous Drone Navigation:** [Watch Demo](https://www.youtube.com/watch?v=dronedemo)
-- **Smart Warehouse Robot:** [Watch in Action](https://www.youtube.com/watch?v=robotdemo)
+- **/SOON:** [Watch Demo](https://)
+- **/SOON:** [Watch in Action](https://)
 
 ## 🧠 My Vision
 
-"To push the boundaries of robotics and AI, transforming ideas into impactful realities that redefine industries and improve lives globally."
+"To transform data into intelligent action. My vision is to build efficient, scalable, and impactful AI solutions that seamlessly integrate into real-world systems and processes."
 
 ## 💼 Hire Me
 
