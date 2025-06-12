@@ -84,20 +84,20 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
   
 ## 🚀 Featured Projects
 
-### [Autonomous Warehouse Robot](https://github.com/kayrahanozcan/warehouse-robot)
-- 🧠 **Description:** Designed an AI-powered robot for optimizing inventory management and warehouse operations.
-- 📂 **Tech Stack:** ROS, TensorFlow, Python
-- 🌟 **Highlight:** Reduced warehouse processing time by 30%.
+### [Captain Atlas - Open World RPG (Senior Project)]  
+- 🏴‍☠️ **Description:** Developed an open-world RPG game where players take on the role of a pirate exploring seas and mysterious islands. Features dynamic ship battles, quests, and rich NPC interactions within a world affected by weather and day-night cycles.  
+- 📂 **Tech Stack:** Unity, C#  
+- 🌟 **Highlight:** Created a complex game environment with interactive gameplay elements as part of a senior project.
 
-### [AI-Powered Drone Navigation](https://github.com/kayrahanozcan/drone-navigation)
-- 🚀 **Description:** Developed an autonomous navigation system for drones, including obstacle detection and path planning.
-- 🌐 **Tech Stack:** PyTorch, OpenCV, ROS
-- 🌟 **Highlight:** Successfully tested in real-world outdoor conditions with 95% accuracy in obstacle avoidance.
+### Ultrasonic Radar System  
+- 📡 **Description:** Built a microcontroller-based ultrasonic radar that scans surroundings using an Arduino-controlled ultrasonic sensor and servo motor. Real-time distance data is visualized via a Processing application.  
+- 📂 **Tech Stack:** Arduino (C++), HC-SR04 sensor, Servo Motor, Processing (Java)  
+- 🌟 **Highlight:** Demonstrated embedded systems skills with real-time sensor data visualization and hardware integration.
 
 ## 🌟 Notable Achievements
 
 * **Award-Winning Projects:** Received an award at Hackathon Sivas for developing a student web platform focused on campus events and announcements.
-* **Publications:** Authored research papers on AI and robotics in leading journals.  
+* **Publications:** AI & robotics newsletter on LinkedIn (1,000+ followers) and technical articles on Medium and my blog.  
   - [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7330305148398784513/)  
   - [Medium Articles](https://medium.com/@kayrahanozcan)  
   - [Personal Blog](https://kayrahanozcan.com)
@@ -107,6 +107,8 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 * **Founder & Leader of [Kaggle Türkiye Topluluğu](https://www.linkedin.com/company/kaggle-turkiye-toplulugu/):**  
   Spearhead a vibrant community of 3000+ data scientists and AI practitioners. Organize events, foster collaboration, and drive knowledge sharing to empower members.  
   Skilled in team leadership, communication, and community building.
+* **Image Matching Challenge 2025:** Ranked 132 out of 943 teams, performing at medal level but narrowly missed the prize due to a submission technicality.
+
 
 ## 📝 Publications & Media
 
