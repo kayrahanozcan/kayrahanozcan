@@ -108,18 +108,12 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 ## 📝 Publications & Media
 
 - **AI & Robotics Newsletter:**  
-  Curate and publish a professional newsletter on LinkedIn with over 1,000 active subscribers, delivering insights and updates on artificial intelligence and robotics.  
+  I run a LinkedIn newsletter on AI and robotics with over 1,000 active subscribers. I share updates, insights, and useful info from the world of AI and robotics.  
   [LinkedIn Newsletter](https://www.linkedin.com/newsletters/7330305148398784513/)
 
 - **Technical Writing:**  
-  Author of in-depth technical articles covering AI, robotics, and software development, published on Medium and a personal blog, contributing to community knowledge and industry discourse.  
+  I write detailed technical articles about AI, robotics, and software development on Medium and my personal blog to share what I learn and help the community grow.
   [Medium Articles](https://medium.com/@kayrahanozcan) | [Personal Blog](https://kayrahanozcan.com)
-
-## 🌍 Global Impact
-
-- **Open Source Tools:** Developed libraries improving AI in robotics efficiency and reliability.
-- **Robotics Education:** Created resources and tutorials for students and professionals.
-- **Industry Standards:** Influenced robotics industry practices through AI-powered solutions.
 
 ## 🤝 Soft Skills
 
@@ -128,11 +122,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 * **Analytical Problem Solving:** Adept at dissecting complex technical challenges into clear, actionable steps.
 * **Effective Communication:** Skilled in conveying complex technical concepts clearly to both technical and non-technical stakeholders, facilitating seamless collaboration.
 * **Adaptability & Learning Agility:** Quickly adapt to emerging technologies and evolving project requirements, maintaining a continuous learning approach.
-
-## 🎥 Live Demos
-
-- **/SOON:** [Watch Demo](https://)
-- **/SOON:** [Watch in Action](https://)
 
 ## 🧠 My Vision
 
