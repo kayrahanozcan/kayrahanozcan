@@ -9,7 +9,7 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
     <strong> Key Highlights </strong>
     <ul>
         <li>
-            <strong>🎓 Education:</strong> Bachelor’s degree in Computer Engineering.
+            <strong>🎓 Education:</strong> Bachelor’s degree in Computer Engineering (2024)
         </li>
         <li>
             <strong>🌐 AI Deployment:</strong> Skilled in deploying AI systems using:
@@ -105,7 +105,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
   Skilled in team leadership, communication, and community building.
 * **Image Matching Challenge 2025:** Ranked 132 out of 943 teams, performing at medal level but narrowly missed the prize due to a submission technicality.
 
-
 ## 📝 Publications & Media
 
 - **AI & Robotics Newsletter:**  
@@ -116,7 +115,6 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
   Author of in-depth technical articles covering AI, robotics, and software development, published on Medium and a personal blog, contributing to community knowledge and industry discourse.  
   [Medium Articles](https://medium.com/@kayrahanozcan) | [Personal Blog](https://kayrahanozcan.com)
 
-
 ## 🌍 Global Impact
 
 - **Open Source Tools:** Developed libraries improving AI in robotics efficiency and reliability.
@@ -125,10 +123,11 @@ A versatile professional with expertise as a Full-Stack Developer, DevOps Engine
 
 ## 🤝 Soft Skills
 
-* **Innovation-Driven:** Continuously exploring novel approaches to improve system performance and functionality.
-* **Collaboration & Leadership:** Skilled at leading teams, mentoring developers, and fostering a collaborative work environment.
-* **Critical Thinking:** Strategic problem-solver adept at breaking down complex challenges into manageable solutions.
-* **Communication:** Expertise in articulating technical concepts to diverse audiences, bridging technical and non-technical stakeholders.
+* **Innovative Mindset:** Proactively seek and implement creative solutions to enhance system efficiency and user experience.
+* **Team Leadership & Mentorship:** Experienced in guiding cross-functional teams, fostering collaboration, and nurturing growth among peers and juniors.
+* **Analytical Problem Solving:** Adept at dissecting complex technical challenges into clear, actionable steps.
+* **Effective Communication:** Skilled in conveying complex technical concepts clearly to both technical and non-technical stakeholders, facilitating seamless collaboration.
+* **Adaptability & Learning Agility:** Quickly adapt to emerging technologies and evolving project requirements, maintaining a continuous learning approach.
 
 ## 🎥 Live Demos
 
